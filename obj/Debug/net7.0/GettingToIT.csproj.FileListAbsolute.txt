@@ -1,0 +1,15 @@
+C:\repo\GettingToIT\bin\Debug\net7.0\GettingToIT.exe
+C:\repo\GettingToIT\bin\Debug\net7.0\GettingToIT.deps.json
+C:\repo\GettingToIT\bin\Debug\net7.0\GettingToIT.runtimeconfig.json
+C:\repo\GettingToIT\bin\Debug\net7.0\GettingToIT.dll
+C:\repo\GettingToIT\bin\Debug\net7.0\GettingToIT.pdb
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.csproj.AssemblyReference.cache
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.AssemblyInfoInputs.cache
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.AssemblyInfo.cs
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.csproj.CoreCompileInputs.cache
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.dll
+C:\repo\GettingToIT\obj\Debug\net7.0\refint\GettingToIT.dll
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.pdb
+C:\repo\GettingToIT\obj\Debug\net7.0\GettingToIT.genruntimeconfig.cache
+C:\repo\GettingToIT\obj\Debug\net7.0\ref\GettingToIT.dll
