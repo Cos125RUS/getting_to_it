@@ -30,7 +30,7 @@ string[] CheckArray(string[] startArray, int counter)
 
 int size = 10;
 (string[] startArray, int counter) = EnterTheStrings(size);
-System.Console.WriteLine(String.Join(' ', startArray));
-
 string[] finalArray = CheckArray(startArray, counter);
+Console.WriteLine();
+Console.Write("Result: ");
 System.Console.WriteLine(String.Join(' ', finalArray));
